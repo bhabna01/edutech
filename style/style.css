@@ -3,3 +3,8 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.carousel-item img {
+    opacity: 0.6;
+    filter: brightness(40%);
+}
