@@ -8,3 +8,23 @@ body {
     opacity: 0.6;
     filter: brightness(40%);
 }
+
+.modal-container {
+    height: 300px;
+}
+
+.accordian-container {
+    max-width: 872px;
+
+}
+
+@media screen and (max-width: 576px) {
+    .carousel-caption h1 {
+        font-size: 20px;
+    }
+
+    .carousel-caption p {
+        font-size: 12px;
+    }
+
+}
